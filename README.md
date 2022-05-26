@@ -1,5 +1,5 @@
 # Dynamic_Systems_Fingerprint_Model
-"Final Project",UNAM-TICs-Dynamic Systems 2022-1 class,taught by Dr. Victor de la Luz 
+"Final Project",UNAM (https://www.unam.mx/) -TICs-Dynamic Systems 2022-1 class,taught by Dr. Victor de la Luz 
 
 
 ____
@@ -19,9 +19,9 @@ ____
 
 # Team_Members
 
-* Luis Aarón Nieto Cruz.
-* Jadiel Zúñiga Rodriguez.
-* Miguel Ángel Zamorano Presa.
+* Luis Aarón Nieto Cruz. ([LuisAaronNietoCruz](https://github.com/LuisAaronNietoCruz))
+* Jadiel Zúñiga Rodriguez. ([JZRodriguez](https://github.com/JZRodriguez))
+* Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 ____
 # Project_Overview
 This project aims to develop a model for fingerprint formation. 
